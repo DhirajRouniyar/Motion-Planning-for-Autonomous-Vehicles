@@ -88,15 +88,6 @@ https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous
 &nbsp;
 
 
-
-https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous-Vehicles/assets/134632027/ade7d37b-3dd4-4dc9-865d-8ae8b5434c5b
-
-
-
-&nbsp;
-&nbsp;
-
-
 ## References
 
 * [Steven M. LaValle. Planning Algorithms. Cambridge University Press, May 2006.
