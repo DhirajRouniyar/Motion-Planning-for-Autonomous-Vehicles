@@ -40,7 +40,7 @@ The motion planning layer provides a plan to achieve a particular desired goal c
 &nbsp;
 
 
-<img width="471" alt="Screenshot 2023-05-27 at 7 46 37 PM" src="https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous-Vehicles/assets/134632027/c5ecf63b-ee26-48e1-a59e-59139947d9fb">
+<img width="471" alt="Screenshot 2023-05-27 at 7 46 37 PM" src="https://github.com/DhirajRouniyar/Assets/blob/main/Images/static%20and%20dynamic%20obstacle%20avoidance_2.png">
 
 &nbsp;
 &nbsp;
@@ -48,11 +48,11 @@ The motion planning layer provides a plan to achieve a particular desired goal c
 - Unstructured Environment
   - For an unstructured environment, lane structure is not available. Hence, the most important task that is to be done in this regard is the navigation through the static and/or dynamic obstacle where the ego must reach a given goal while avoiding obstacles like curbs, parked cars and so on.
    
-<img width="471" alt="Screenshot 2023-05-27 at 7 48 30 PM" src="https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous-Vehicles/assets/134632027/04644e7a-1f8a-4fcc-a8b4-ad3d91b4d4a7">
+<img width="471" alt="Screenshot 2023-05-27 at 7 48 30 PM" src="https://github.com/DhirajRouniyar/Assets/blob/main/Images/static%20and%20dynamic%20obstacle%20avoidance_3.png">
 
 &nbsp;
 
-<img width="472" alt="Screenshot 2023-05-27 at 7 41 29 PM" src="https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous-Vehicles/assets/134632027/3485d458-0cec-465f-9a95-bfd9507b6f0a">
+<img width="472" alt="Screenshot 2023-05-27 at 7 41 29 PM" src="https://github.com/DhirajRouniyar/Assets/blob/main/Images/static%20and%20dynamic%20obstacle%20avoidance_4.png">
 
 ## Demo
 
