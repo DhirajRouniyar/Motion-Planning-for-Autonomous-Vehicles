@@ -35,7 +35,7 @@ The motion planning layer provides a plan to achieve a particular desired goal c
     6) Obstacle avoidance
     
   
-<img width="471" alt="Screenshot 2023-05-27 at 7 43 18 PM" src="https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous-Vehicles/assets/134632027/c09e958b-8b71-4017-aa6c-00b3f07e23f3">
+<img width="471" alt="Screenshot 2023-05-27 at 7 43 18 PM" src="https://github.com/DhirajRouniyar/Assets/blob/main/Images/static%20and%20dynamic%20obstacle%20avoidance.png">
 
 &nbsp;
 
