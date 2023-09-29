@@ -28,7 +28,7 @@ The motion planning layer provides a plan to achieve a particular desired goal c
 - Structured Environment
   - Since for a structured environment, autonomous vehicles are being made to follow lane-divided roads featuring unidirectional flows, some of the tasks that are to be done in this regard are as follows:
     1) Car following
-    2) Lane keepiong
+    2) Lane keeping
     3) Lane changing
     4) Passing
     5) Overtaking
